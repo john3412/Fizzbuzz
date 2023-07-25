@@ -1,5 +1,6 @@
 function fizzBuzz(n) {
     for (let i = 0; i <= n; i++) {
+        //Compara si el residuo de 3 es igual a 0 y el residuo de 5 es igual a 0
         if (i % 3 === 0 && i % 5 === 0){
             console.log('fizzbuzz');
         } else if (i % 3 === 0) {
