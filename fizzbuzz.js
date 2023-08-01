@@ -13,5 +13,5 @@ function fizzBuzz(n) {
     }
 }
 
-
+//Llamamos a la función e imprime en pantalla
 console.log(fizzBuzz(100));
